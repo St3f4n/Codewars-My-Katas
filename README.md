@@ -9,4 +9,5 @@ List of katas authored by me.
 <li><a href="https://www.codewars.com/kata/583203e6eb35d7980400002a">Count the smiley faces!</a></li>
 <li><a href="https://www.codewars.com/kata/58311536e77f7d08de000085">How many cows do you have?</a></li>
 <li><a href="https://www.codewars.com/kata/58544b74c029e204ec000059">Visa application centre</a></li>
+<li><a href="https://www.codewars.com/kata/5863f1c8b359c4dd4e000001">Bulk up!</a></li>
 </ul>
