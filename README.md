@@ -1,7 +1,8 @@
 # My-Katas
-<p>Codewars is an open source community of people with common interest and passion for coding.
+<p><a href="https://www.codewars.com">Codewars</a> is an open source community of people with common interest and passion for coding.
 It offers huge learning opportunities by solving programming challenges (refered to as katas)
-and sparring with other programmers in code snippets (called kumite). <br><br>
+and sparring with other programmers in code snippets (called kumite). 
+Challenges are available in a large variety of languages and are validated using a custom <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> framework.<br><br>
 Link to my profile:<br>
 <a href="https://www.codewars.com/users/St3f4n" target="_blank"><img src="https://www.codewars.com/users/St3f4n/badges/large" ></a><br>
 List of katas(coding challenges) authored by me.</p>
