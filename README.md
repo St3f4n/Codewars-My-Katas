@@ -1,4 +1,4 @@
-# My-Katas
+# Codewars-My-Katas
 <p><a href="https://www.codewars.com">Codewars</a> is an open source community of people with common interest and passion for coding.
 It offers huge learning opportunities by solving programming challenges (refered to as katas)
 and sparring with other programmers in code snippets (called kumite). 
