@@ -1,5 +1,10 @@
 # My-Katas
-List of katas authored by me.
+<p>Codewars is an open source community of people with common interest and passion for coding.
+It offers huge learning opportunities by solving programming challenges (refered to as katas)
+and sparring with other programmers in code snippets (called kumite). <br><br>
+Link to my profile:<br>
+<a href="https://www.codewars.com/users/St3f4n" target="_blank"><img src="https://www.codewars.com/users/St3f4n/badges/large" ></a><br>
+List of katas(coding challenges) authored by me.</p>
 <ul>
 <li><a href="https://www.codewars.com/kata/5839c48f0cf94640a20001d3">Land perimeter</a></li>
 <li><a href="https://www.codewars.com/kata/58360d112fb0ba255300008b">Now that's a crib!</a></li>
