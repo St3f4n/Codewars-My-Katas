@@ -16,4 +16,5 @@ List of katas(coding challenges) authored by me.</p>
 <li><a href="https://www.codewars.com/kata/58311536e77f7d08de000085">How many cows do you have?</a></li>
 <li><a href="https://www.codewars.com/kata/58544b74c029e204ec000059">Visa application centre</a></li>
 <li><a href="https://www.codewars.com/kata/5863f1c8b359c4dd4e000001">Bulk up!</a></li>
+<li><a href="https://www.codewars.com/kata/58791aa554a6783827000221">Closest friends</a></li>
 </ul>
