@@ -18,4 +18,5 @@ List of katas(coding challenges) authored by me.</p>
 <li><a href="https://www.codewars.com/kata/5863f1c8b359c4dd4e000001">Bulk up!</a></li>
 <li><a href="https://www.codewars.com/kata/58791aa554a6783827000221">Closest friends</a></li>
 <li><a href="https://www.codewars.com/kata/5888a57cbf87c25c840000c6">It is written in the stars</a></li>
+<li><a href="https://www.codewars.com/kata/5897cdc26551af891c000124">Hofstadter Q</a></li>
 </ul>
