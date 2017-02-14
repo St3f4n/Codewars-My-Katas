@@ -4,7 +4,7 @@ It offers huge learning opportunities by solving programming challenges (refered
 and sparring with other programmers in code snippets (called kumite). 
 Challenges are available in a large variety of languages and are validated using a custom <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> framework.<br><br>
 Link to my profile:<br>
-<a href="https://www.codewars.com/users/St3f4n" target="_blank"><img src="https://www.codewars.com/users/St3f4n/badges/large" ></a><br>
+<a href="https://www.codewars.com/users/St3f4n" target="_blank"><img src="https://www.codewars.com/users/St3f4n/badges/large" alt="St3f4n"></a><br>
 List of katas(coding challenges) authored by me.</p>
 <ul>
 <li><a href="https://www.codewars.com/kata/5839c48f0cf94640a20001d3">Land perimeter</a></li>
